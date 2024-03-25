@@ -1,0 +1,4 @@
+{
+    "java.import.projectSelection": "manual",
+    "java.maxConcurrentBuilds": 1
+}
